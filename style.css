@@ -1,5 +1,9 @@
+
+
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px; 
+    text-align: center; 
+    margin-block-start: 5em;
 }
 
 .attribution a {
@@ -17,6 +21,8 @@ body {
     text-align: center;
     height: 550px;
     width: 375px;
+    box-shadow: 0 2.5rem 2.5rem 0 rgba(37, 37, 37, 0.1);
+    margin: 0 auto;
 }
 
 .container p {
