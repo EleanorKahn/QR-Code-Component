@@ -18,7 +18,6 @@ body {
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
     font-weight: 400;
-    font-size: 15px;
 }
 
 .container {
@@ -26,9 +25,9 @@ body {
     padding: 20px;
     border-radius: 1.25rem;
     text-align: center;
-    height: 490px;
+    height: 480px;
     width: 300px;
-    box-shadow: 0 2.5rem 2.5rem 0 rgba(37, 37, 37, 0.1);
+    box-shadow: 0 25px 25px rgba(37, 37, 37, 0.1);
     margin: 10% auto;
     line-height: 1.25;
 }
@@ -41,6 +40,7 @@ body {
 
 .container h1 {
     font-size: 25px;
+    font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
 
